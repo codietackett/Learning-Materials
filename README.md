@@ -10,3 +10,18 @@ These were recommendations from Ryan Barr on the post: [How can I become a reall
 - **Bulletproof Web Design**: [simplebits.com/publications/bulletproof](http://www.simplebits.com/publications/bulletproof/)
 - **A Book Apart Series**: [abookapart.com](http://www.abookapart.com/)
 - **O'Reilly books**: [oreilly.com/css-html](http://oreilly.com/css-html/index.html)
+
+## Instructor Led Training/Learning
+
+Sometimes learning can be difficult alone and having someone guide you will help a ton. Considering following someone else's lead may be the ideal approach for you. Here are some top suggestions at the moment.
+
+- **Thinkful** (Coding Bootcamp): [thinkful.com](https://www.thinkful.com/)
+- **Coding Dojo** (Coding Bootcamp): [codingdojo.com](https://www.codingdojo.com/)
+
+## Self Paced Learning Tools
+
+Learning is not a race and that's why I suggest making use of self-taught tools. It would be in your best interest to not stay secluded; however, keeping your mind fresh and solving problems will help develop more skill and confidence.
+
+- **Code Wars** (Problem Solving Challenges): [codewars.com](https://www.codewars.com/)
+- **Leet Code** (Popular Problem Solving Challenges - Employers may pull problems from here): [leetcode.com](https://leetcode.com/)
+- **Neet Code** (Helps to prepare for interviews - Ties into leet code): [neetcode.io](https://neetcode.io/)
