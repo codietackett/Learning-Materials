@@ -25,3 +25,4 @@ Learning is not a race and that's why I suggest making use of self-taught tools.
 - **Code Wars** (Problem Solving Challenges): [codewars.com](https://www.codewars.com/)
 - **Leet Code** (Popular Problem Solving Challenges - Employers may pull problems from here): [leetcode.com](https://leetcode.com/)
 - **Neet Code** (Helps to prepare for interviews - Ties into leet code): [neetcode.io](https://neetcode.io/)
+- **The Odin Project** (Learn web development at your own pace. Also introduces a community to learn with.): [theodinproject.com](https://www.theodinproject.com/)
