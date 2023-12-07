@@ -11,6 +11,10 @@ These were recommendations from Ryan Barr on the post: [How can I become a reall
 - **A Book Apart Series**: [abookapart.com](http://www.abookapart.com/)
 - **O'Reilly books**: [oreilly.com/css-html](http://oreilly.com/css-html/index.html)
 
+### Other Books
+
+- **Cracking the Code Interview**: [amazon.com](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
 ## Instructor Led Training/Learning
 
 Sometimes learning can be difficult alone and having someone guide you will help a ton. Considering following someone else's lead may be the ideal approach for you. Here are some top suggestions at the moment.
@@ -26,3 +30,4 @@ Learning is not a race and that's why I suggest making use of self-taught tools.
 - **Leet Code** (Popular Problem Solving Challenges - Employers may pull problems from here): [leetcode.com](https://leetcode.com/)
 - **Neet Code** (Helps to prepare for interviews - Ties into leet code): [neetcode.io](https://neetcode.io/)
 - **The Odin Project** (Learn web development at your own pace. Also introduces a community to learn with.): [theodinproject.com](https://www.theodinproject.com/)
+
