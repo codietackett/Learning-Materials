@@ -31,3 +31,8 @@ Learning is not a race and that's why I suggest making use of self-taught tools.
 - **Neet Code** (Helps to prepare for interviews - Ties into leet code): [neetcode.io](https://neetcode.io/)
 - **The Odin Project** (Learn web development at your own pace. Also introduces a community to learn with.): [theodinproject.com](https://www.theodinproject.com/)
 
+## Videos
+
+Videos that cover one or more topics about tools, patterns, algorithms, and more.
+
+- **Complete Git and GitHub Tutorial**: [youtube.com](https://www.youtube.com/watch?v=apGV9Kg7ics)
